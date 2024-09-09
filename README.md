@@ -2,6 +2,11 @@
 <h3 align="center">"Hello everyone! I’m a student passionate about technology and developing innovative solutions, with a strong desire to learn and grow professionally as a Fullstack Web Developer."</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+- 📫 How to reach me **vallivictoria@gmail.com**
+- 💼 Portfolio **https://portfoliovvalli.web.app/home**
+- 🌐 Required to open portfolio **https://portfoliovvalli.onrender.com/**
+
 <p align="left">
 </p>
 
